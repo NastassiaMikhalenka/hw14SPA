@@ -1,0 +1,19 @@
+{
+  "name": "spa_hw",
+  "version": "1.0.0",
+  "description": "14hw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NastassiaMikhalenka/hw14SPA.git"
+  },
+  "author": "AM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NastassiaMikhalenka/hw14SPA/issues"
+  },
+  "homepage": "https://github.com/NastassiaMikhalenka/hw14SPA#readme"
+}
